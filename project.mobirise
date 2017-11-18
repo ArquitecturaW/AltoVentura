@@ -186,9 +186,10 @@
         {
           "_params": {
             "googleMap": {
-              "placeId": "ChIJn6wOs6lZwokRLKy1iqRcoKw",
-              "address": "350 5th Ave, New York, NY 10118",
-              "state": "ok"
+              "address": "ALTO VENTURA",
+              "placeId": "ChIJKc5L1GG6j4AR3yDkoWN76ag",
+              "state": "ok",
+              "stateDetails": ""
             }
           },
           "_tags": [
