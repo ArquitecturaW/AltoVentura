@@ -12,7 +12,10 @@
     },
     "versionFirst": "4.4.1",
     "uniqCompNum": 7,
-    "versionPublish": "4.4.1"
+    "versionPublish": "4.4.1",
+    "favicon": "",
+    "noImageResize": "",
+    "cookiesAlert": ""
   },
   "pages": {
     "index.html": {
