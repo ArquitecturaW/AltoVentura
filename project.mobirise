@@ -1186,8 +1186,25 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" href=\"etapas.html#features12-e\" data-toolbar=\"-mbrBtnMove\">VER ETAPA B</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"assets/files/ESPECIFICACIONES GENERALES.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ESPECIFICACIONES</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/5zb-1184x640.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3pt-1184x640.jpg",
                 "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-5",
+                "customStyle3": "display-4",
+                "title": "Alto Ventura",
+                "overlay": true,
+                "contentAlign": "right",
+                "text": "Casas y apartamentos en conjunto.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" href=\"etapas.html#features3-c\" data-toolbar=\"-mbrBtnMove\">VER ETAPAS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"assets/files/ESPECIFICACIONES GENERALES.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ESPECIFICACIONES</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/5zb-1184x640.jpg",
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": false,
@@ -1216,7 +1233,7 @@
                 "title": "ETAPA D",
                 "overlay": true,
                 "contentAlign": "right",
-                "text": "Cuarenta casas en cinjunto, ámplias áreas libres, zonas libres y de reacreación, circuitos para joggin y bicicleta..",
+                "text": "Casas modernas con áreas de esparcimiento completamente acabadas, con o sin piscina.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" href=\"etapas.html#features12-g\" data-toolbar=\"-mbrBtnMove\">VER ETAPA D</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"assets/files/ESPECIFICACIONES GENERALES.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ESPECIFICACIONES</a>"
               },
               {
@@ -1235,23 +1252,6 @@
                 "contentAlign": "right",
                 "text": "Casas modernas con áreas de esparcimiento completamente acabadas, con o sin piscina.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/3pt-1184x640.jpg",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "customStyle1": "display-1",
-                "customStyle2": "display-5",
-                "customStyle3": "display-4",
-                "title": "ALTO VENTURA",
-                "overlay": true,
-                "contentAlign": "right",
-                "text": "Apartamentos y casas en conjunto, ámplias áreas libres, zonas de reacreación activa y pasiva, circuitos para joggin y bicicleta.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" href=\"etapas.html#features3-c\" data-toolbar=\"-mbrBtnMove\">VER ETAPAS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"assets/files/ESPECIFICACIONES GENERALES.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ESPECIFICACIONES</a>"
               }
             ]
           }
@@ -1748,7 +1748,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#efefef\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#efefef\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article></div>\n        </div>\n    </div>\n</section>",
           "_cid": "qBXCLjnOjH",
           "_protectedParams": [],
           "_global": false,
