@@ -2685,6 +2685,15 @@ body {
   box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
   transition: box-shadow 0.3s;
 }
+.cid-qBXCLjnOjH {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-qBXCLjnOjH .mbr-text,
+.cid-qBXCLjnOjH blockquote {
+  color: #767676;
+}
 .cid-qBSEZGoC6d {
   padding-top: 135px;
   padding-bottom: 135px;
