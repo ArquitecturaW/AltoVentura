@@ -4867,7 +4867,7 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Apartamento 102",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Piso 1",
@@ -4918,28 +4918,112 @@
                 "active": false
               },
               {
-                "tags": "Responsive",
+                "tags": "Piso 2",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@THEME_PATH@/components/_images/gallery/gallery06.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/gallery06.jpg",
+                "image": "@PROJECT_PATH@/assets/images/b1p2a201206-1600x1846.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/b1p2a201206-1600x1846-800x923.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Apartamento 201-206",
                 "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "Piso 2",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@THEME_PATH@/components/_images/gallery/gallery07.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/gallery07.jpg",
+                "image": "@PROJECT_PATH@/assets/images/b1p2a202205-1600x1847.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/b1p2a202205-1600x1847-800x923.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Apartamento 202-205",
                 "active": false
+              },
+              {
+                "tags": "Piso 2",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/b1p2a203204-1600x1837.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/b1p2a203204-1600x1837-800x918.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Apartamento 203-204",
+                "active": false
+              },
+              {
+                "tags": "Piso 3",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/b1p3a301-1600x1858.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/b1p3a301-1600x1858-800x929.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Apartamento 301",
+                "active": false
+              },
+              {
+                "tags": "Piso 3",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/b1p3a302303-1600x1853.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/b1p3a302303-1600x1853-800x926.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Apartamento 302-303",
+                "active": false
+              },
+              {
+                "tags": "Piso 3",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/b1p3a304-1600x1864.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/b1p3a304-1600x1864-800x932.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Apartamento 304",
+                "active": false
+              },
+              {
+                "tags": "Teraza",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/b1t301-1600x1280.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/b1t301-1600x1280-800x640.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Apartamento 301",
+                "active": false
+              },
+              {
+                "tags": "Teraza",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/b1t302303-1600x1280.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/b1t302303-1600x1280-800x640.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Apartamento 304",
+                "active": false
+              },
+              {
+                "tags": "Teraza",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/b1t304-1600x1280.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/b1t304-1600x1280-800x640.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Apartamento 302-303",
+                "active": true
               }
             ]
           },
