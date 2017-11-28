@@ -4830,7 +4830,7 @@
             }
           },
           "_name": "gallery2",
-          "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"9\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"9\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n\n        <input type=\"gallery\" title=\"Gallery\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\" mbr-gallery-spacing=\"4\" mbr-gallery-show-filter mbr-gallery-show-text></div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"9\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"9\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n\n        <input type=\"gallery\" title=\"Gallery\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\" mbr-gallery-spacing=\"4\" mbr-gallery-show-filter mbr-gallery-show-text mbr-gallery-show-bullets></div>\n    </div>\n\n</section>",
           "_cid": "qCeTvO2DAD",
           "_anchor": "gallery2-w",
           "_protectedParams": [
@@ -4855,7 +4855,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/b1p1a101-2000x1181-800x472.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Aparatamento 101",
+                "caption": "Apt 101",
                 "active": false
               },
               {
@@ -4867,7 +4867,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/b1p1a102-2000x1181-800x472.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Apartamento 102",
+                "caption": "Apt 102",
                 "active": false
               },
               {
@@ -4879,7 +4879,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/b1p1a103-2000x1181-800x472.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Apartamento 103",
+                "caption": "Apt 103",
                 "active": false
               },
               {
@@ -4891,7 +4891,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/b1p1a104-2000x1181-800x472.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Apartamento 104",
+                "caption": "Apt 104",
                 "active": false
               },
               {
@@ -4903,7 +4903,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/b1p1a105-2000x1181-800x472.jpg",
                 "alt": "Apartamento 105",
                 "customStyle1": "display-7",
-                "caption": "Apartamento 105",
+                "caption": "Apt 105",
                 "active": false
               },
               {
@@ -4915,7 +4915,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/b1p1a106-2000x1181-800x472.jpg",
                 "alt": "Apartamento 106",
                 "customStyle1": "display-7",
-                "caption": "Apartamento 106",
+                "caption": "Apt 106",
                 "active": false
               },
               {
@@ -4927,7 +4927,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/b1p2a201206-2000x1181-800x472.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Apartamento 201-206",
+                "caption": "Apt 201-206",
                 "active": false
               },
               {
@@ -4939,7 +4939,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/b1p2a202205-2000x1181-800x472.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Apartamento 202-205",
+                "caption": "Apt 202-205",
                 "active": false
               },
               {
@@ -4951,7 +4951,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/b1p2a203204-2000x1181-800x472.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Apartamento 203-204",
+                "caption": "Apt 203-204",
                 "active": false
               },
               {
@@ -4963,31 +4963,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/b1p3a301-2000x1181-800x472.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Apartamento 301",
-                "active": false
-              },
-              {
-                "tags": "Piso 3",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/b1p3a302303-2000x1181.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/b1p3a302303-2000x1181-800x472.jpg",
-                "alt": "",
-                "customStyle1": "display-7",
-                "caption": "Apartamento 302-303",
-                "active": false
-              },
-              {
-                "tags": "Piso 3",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/b1p3a304-2000x1181.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/b1p3a304-2000x1181-800x472.jpg",
-                "alt": "",
-                "customStyle1": "display-7",
-                "caption": "Apartamento 304",
+                "caption": "Apt 301",
                 "active": false
               },
               {
@@ -4999,19 +4975,19 @@
                 "thumb": "@PROJECT_PATH@/assets/images/b1p3a301t-2000x1181-800x472.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Apartamento 301",
+                "caption": "Apt 301-T",
                 "active": false
               },
               {
-                "tags": "Teraza",
+                "tags": "Piso 3",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/b1p3a302303t-2000x1181.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/b1p3a302303t-2000x1181-800x472.jpg",
+                "image": "@PROJECT_PATH@/assets/images/b1p3a302303-2000x1181.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/b1p3a302303-2000x1181-800x472.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Apartamento 304",
+                "caption": "Apt 302-303",
                 "active": false
               },
               {
@@ -5023,8 +4999,32 @@
                 "thumb": "@PROJECT_PATH@/assets/images/b1p3a304t-2000x1181-800x472.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Apartamento 302-303",
+                "caption": "Apt 302-303-T",
                 "active": true
+              },
+              {
+                "tags": "Piso 3",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/b1p3a304-2000x1181.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/b1p3a304-2000x1181-800x472.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Apt 304",
+                "active": false
+              },
+              {
+                "tags": "Teraza",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/b1p3a302303t-2000x1181.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/b1p3a302303t-2000x1181-800x472.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Apt 304-T",
+                "active": false
               }
             ]
           }
