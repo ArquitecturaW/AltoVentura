@@ -5485,62 +5485,46 @@ body {
   box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
   transition: box-shadow 0.3s;
 }
-.cid-qCdZkt1TC6 {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #f9f9f9;
+.cid-qCeTvO2DAD {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
 }
-.cid-qCdZkt1TC6 p {
-  color: #767676;
+.cid-qCeTvO2DAD .mbr-slider .carousel-control {
+  background: #1b1b1b;
 }
-.cid-qCdZkt1TC6 .mbr-section-subtitle {
-  color: #767676;
+.cid-qCeTvO2DAD .mbr-slider .carousel-control-prev {
+  left: 0;
+  margin-left: 2.5rem;
 }
-.cid-qCdZkt1TC6 .accordion-content {
-  flex-basis: 100%;
-  -webkit-flex-basis: 100%;
+.cid-qCeTvO2DAD .mbr-slider .carousel-control-next {
+  right: 0;
+  margin-right: 2.5rem;
 }
-.cid-qCdZkt1TC6 .panel-group {
+.cid-qCeTvO2DAD .mbr-slider .modal-body .close {
+  background: #1b1b1b;
+}
+.cid-qCeTvO2DAD .mbr-gallery-item > div::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
   width: 100%;
+  height: 100%;
+  background: linear-gradient(to left, #554346, #45505b) !important;
+  opacity: 0;
+  -webkit-transition: 0.2s opacity ease-in-out;
+  transition: 0.2s opacity ease-in-out;
 }
-.cid-qCdZkt1TC6 .card {
-  border-radius: 0px;
-  margin-bottom: -1px;
-}
-.cid-qCdZkt1TC6 .card .card-header {
-  border-radius: 0px;
-  border: 0px;
-  padding: 0;
-}
-.cid-qCdZkt1TC6 .card .card-header a.panel-title {
-  margin-bottom: 0;
-  font-style: normal;
-  font-weight: 500;
+.cid-qCeTvO2DAD .mbr-gallery-title {
+  font-size: .9em;
+  position: absolute;
   display: block;
-  text-decoration: none !important;
-  margin-top: -1px;
-  line-height: normal;
-}
-.cid-qCdZkt1TC6 .card .card-header a.panel-title:focus {
-  text-decoration: none !important;
-}
-.cid-qCdZkt1TC6 .card .card-header a.panel-title h4 {
-  padding: 1.3rem 2rem;
-  border: 1px solid #dfdfdf;
-  margin-bottom: 0;
-}
-.cid-qCdZkt1TC6 .card .card-header a.panel-title h4 .sign {
-  padding-right: 1rem;
-}
-.cid-qCdZkt1TC6 .mbr-figure {
-  -webkit-align-self: flex-start;
-  align-self: flex-start;
-  padding-left: 4rem;
-}
-@media (max-width: 991px) {
-  .cid-qCdZkt1TC6 .mbr-figure {
-    padding-right: 0;
-    padding-left: 0;
-    padding-top: 2rem;
-  }
+  width: 100%;
+  bottom: 0;
+  padding: 1rem;
+  color: #fff;
+  background: linear-gradient(to left, rgba(85, 67, 70, 0.85), rgba(69, 80, 91, 0.85)) !important;
+  -webkit-transition: 0.2s background ease-in-out;
+  transition: 0.2s background ease-in-out;
 }
