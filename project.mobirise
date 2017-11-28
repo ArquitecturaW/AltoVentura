@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "AltoVentura",
-    "currentPage": "urbanismo.html",
+    "currentPage": "etapas.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1135,7 +1135,7 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/pt1-1184x640.jpg",
+                "image": "@PROJECT_PATH@/assets/images/pt1-1-1184x640.jpg",
                 "active": true,
                 "showButtons": true,
                 "showText": true,
@@ -1147,7 +1147,7 @@
                 "customStyle3": "display-4",
                 "title": "Alto Ventura",
                 "overlay": true,
-                "contentAlign": "right",
+                "contentAlign": "left",
                 "text": "Casas y apartamentos en conjunto.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" href=\"etapas.html#features3-c\" data-toolbar=\"-mbrBtnMove\">+ CASAS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"assets/files/ESPECIFICACIONES GENERALES.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">+ APARTAMENTOS</a>"
               }
