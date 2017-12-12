@@ -6602,7 +6602,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/p4030203-1-1600x1200.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -6637,7 +6637,7 @@
                 "overlayOpacity": "0.2"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/viburnum-1-640x480.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-451-800x533.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -6655,8 +6655,8 @@
                 "overlayOpacity": "0.2"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/plantas-de-swinglealimoncillo-cerca-viva-1-1200x676.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/vivero-forestal-en-huigra-16-728-728x546.jpg",
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
