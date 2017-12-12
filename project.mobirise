@@ -6602,7 +6602,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/p4030203-1-1600x1200.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -6656,7 +6656,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/plantas-de-swinglealimoncillo-cerca-viva-1-1200x676.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
