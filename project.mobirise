@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "AltoVentura",
-    "currentPage": "amenidades.html",
+    "currentPage": "urbanismo.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1137,24 +1137,6 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/pytototaldraft-2-2000x1124.jpg",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "customStyle1": "display-1",
-                "customStyle2": "display-5",
-                "customStyle3": "display-4",
-                "title": "Alto Ventura",
-                "overlay": true,
-                "contentAlign": "left",
-                "text": "Casas y apartamentos en conjunto.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" href=\"casas.html#content4-l\" data-toolbar=\"-mbrBtnMove\">+ CASAS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"apartamentos.html#content4-s\" data-toolbar=\"-mbrBtnMove\">+ APARTAMENTOS</a>",
-                "overlayOpacity": "0.1"
-              },
-              {
                 "image": "@PROJECT_PATH@/assets/images/zacgnhq1-2000x1125.jpg",
                 "active": false,
                 "showButtons": true,
@@ -1174,6 +1156,24 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/zdcgnhq1-2000x1125.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-5",
+                "customStyle3": "display-4",
+                "title": "Alto Ventura",
+                "overlay": true,
+                "contentAlign": "left",
+                "text": "Casas y apartamentos en conjunto.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" href=\"casas.html#content4-l\" data-toolbar=\"-mbrBtnMove\">+ CASAS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"apartamentos.html#content4-s\" data-toolbar=\"-mbrBtnMove\">+ APARTAMENTOS</a>",
+                "overlayOpacity": "0.1"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/pytototaldraft-2-2000x1124.jpg",
                 "active": true,
                 "showButtons": true,
                 "showText": true,
